@@ -9,14 +9,12 @@
       "title": "Mobirise",
       "styling": {}
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x72-94.png",
     "path": "file:///M:/SITE%20COPIES/New%20folder%20(2)",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 0,
-    "publishType": "local",
-    "publishPath": "file:///M:/SITE%20COPIES/PUBLISHED%2017%20MAY%202023"
+    "uniqCompNum": 0
   },
   "pages": {
     "Home": {
@@ -372,7 +370,7 @@
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": true
           },
           "headerAlign": "left",
